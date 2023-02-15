@@ -15,4 +15,10 @@ public class ArrayListModule {
         ArrayListModule a = new ArrayListModule();
         a.test();
     }
+
+    public void test2() {
+        ArrayListModule a = new ArrayListModule();
+        a.test();
+    }
+
 }
